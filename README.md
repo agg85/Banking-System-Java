@@ -1,3 +1,5 @@
+A basic banking system built as part of lab work in Object Oriented Programming course using Java.
+
 1. BankAccount: A class that facilitates basic operations, such as withdrawal, deposition, transfer of funds, etc.
 2. CheckingAccount, SavingsAccount, FDAccount: The 3 types of bank accounts supported, extend the super class BankAccount.
 3. ITRules: Defines the TAX slabs, extended by BankAccount.
